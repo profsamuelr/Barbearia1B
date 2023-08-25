@@ -1,5 +1,5 @@
 body {
-  background: #CCCCCC;
+  background: #a0c9b7;
 }
 
 p {
@@ -9,6 +9,13 @@ em strong {
   color: #FF0000;
 }
 
+#banner {
+  width: 100%;
+}
+
+#missao {
+  font-size: 30px;
+}
 
 
 
